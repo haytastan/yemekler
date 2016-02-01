@@ -1,0 +1,182 @@
+{
+	"yemekler": [{
+		"gun": "01.02.2016",
+		"day": "PAZARTES\u0130",
+		"bir": "P\u0130L\u0130\u00c7 B\u0130FTEK",
+		"iki": "MIS.P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"uc": "S\u00dcZ.M.CORBA",
+		"dort": "HALKA TATLI",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:2106"
+	},
+	{
+		"gun": "02.02.2016",
+		"day": "SALI",
+		"bir": "Z.TAZE FASULYE",
+		"iki": "KIYMALI KOL B\u00d6RE\u011e\u0130",
+		"uc": "YAYLA CORBA",
+		"dort": "YO\u011eURT",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:1865"
+	},
+	{
+		"gun": "03.02.2016",
+		"day": "\u00c7AR\u015eAMBA",
+		"bir": "P\u00dcREL\u0130 ROSTO K\u00d6FTE",
+		"iki": "SEBZEL\u0130 MAKARNA",
+		"uc": "\u015eEHR\u0130YE CORBA",
+		"dort": "SALATA",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:1928"
+	},
+	{
+		"gun": "04.02.2016",
+		"day": "PER\u015eEMBE",
+		"bir": "TAVUK HA\u015eLAMA",
+		"iki": "SAL.BULGUR P\u0130LAVI",
+		"uc": "EZOGEL\u0130N",
+		"dort": "S\u00dcTLA\u00c7",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:2268"
+	},
+	{
+		"gun": "05.02.2016",
+		"day": "CUMA",
+		"bir": "BALIK HAMS\u0130",
+		"iki": "Z.YA\u011eLI BARBUNYA",
+		"uc": "S\u00dcZ.M.CORBA",
+		"dort": "SALATA",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:2548"
+	},
+	{
+		"gun": "08.02.2016",
+		"day": "PAZARTES\u0130",
+		"bir": "ETL\u0130 KURU FASULYE",
+		"iki": "P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"uc": "LEBEN\u0130YE CORBA",
+		"dort": "TUR\u015eU",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:1976"
+	},
+	{
+		"gun": "09.02.2016",
+		"day": "SALI",
+		"bir": "TAVUK BAGET",
+		"iki": "F\u0130R\u0130K P\u0130LAVI",
+		"uc": "S.MERC\u0130MEK \u00c7ORBA",
+		"dort": "SALATA",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:1904"
+	},
+	{
+		"gun": "10.02.2016",
+		"day": "\u00c7AR\u015eAMBA",
+		"bir": "\u0130ZM\u0130R K\u00d6FTE",
+		"iki": "PEYN\u0130RL\u0130 MAKARNA",
+		"uc": "KR.DOMATES CORBA",
+		"dort": "REVAN\u0130",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:2395"
+	},
+	{
+		"gun": "11.02.2016",
+		"day": "PER\u015eEMBE",
+		"bir": "TAVUKLU TAS KEBABI",
+		"iki": "MIS.P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"uc": "TUTMA\u00c7 CORBA",
+		"dort": "YO\u011eURT",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:1829"
+	},
+	{
+		"gun": "12.02.2016",
+		"day": "CUMA",
+		"bir": "\u00c7OBAN KAVURMA",
+		"iki": "SADE P\u0130LAVI",
+		"uc": "EZOGEL\u0130N",
+		"dort": "AYRAN",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:1875"
+	},
+	{
+		"gun": "15.02.2016",
+		"day": "PAZARTES\u0130",
+		"bir": "ETL\u0130 NOHUT",
+		"iki": "BULGUR P\u0130LAVI",
+		"uc": "D\u00d6VME CORBA",
+		"dort": "\u0130RM\u0130K HELVA",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:2486"
+	},
+	{
+		"gun": "16.02.2016",
+		"day": "SALI",
+		"bir": "TAVUK P\u0130RZOLA",
+		"iki": "G\u00d6KKU\u015eA\u011eI P\u0130LAVI",
+		"uc": "ALACA CORBA",
+		"dort": "SALATA",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:1863"
+	},
+	{
+		"gun": "17.02.2016",
+		"day": "\u00c7AR\u015eAMBA",
+		"bir": "SEBZEL\u0130 K\u00d6FTE",
+		"iki": "SOSLU MAKARNA",
+		"uc": "EZOGEL\u0130N",
+		"dort": "CACIK",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:1861"
+	},
+	{
+		"gun": "18.02.2016",
+		"day": "PER\u015eEMBE",
+		"bir": "TAVUKLU \u00c7\u0130NGEN YAHN\u0130",
+		"iki": "BULGUR P\u0130LAVI",
+		"uc": "YAYLA CORBA",
+		"dort": "KADAYIF",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:1974"
+	},
+	{
+		"gun": "19.02.2016",
+		"day": "CUMA",
+		"bir": "BAH\u00c7\u0130VAN KEBAP",
+		"iki": "P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"uc": "S\u00dcZ M. CORBA",
+		"dort": "YO\u011eURT",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:2205"
+	},
+	{
+		"gun": "22.02.2016",
+		"day": "PAZARTES\u0130",
+		"bir": "EK\u015e\u0130L\u0130 UFAK K\u00d6FTE",
+		"iki": "PEYN\u0130RL\u0130 ER\u0130\u015eTE",
+		"uc": "TARHANA CORBA",
+		"dort": "MEYVE",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:1923"
+	},
+	{
+		"gun": "23.02.2016",
+		"day": "SALI",
+		"bir": "SOSLU TAVUK FIRIN",
+		"iki": "P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"uc": "\u015eEHR\u0130YE CORBA",
+		"dort": "CACIK",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:2001"
+	},
+	{
+		"gun": "24.02.2016",
+		"day": "\u00c7AR\u015eAMBA",
+		"bir": "PAT.FIRIN K\u00d6FTE",
+		"iki": "PEYN\u0130RL\u0130 MAKARNA",
+		"uc": "EZOGEL\u0130N CORBA",
+		"dort": "\u015eAM TATLI",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:1870"
+	},
+	{
+		"gun": "25.02.2016",
+		"day": "PER\u015eEMBE",
+		"bir": "SEB.TAVUK TAVA",
+		"iki": "P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"uc": "D\u00d6\u011eME CORBA",
+		"dort": "MEYVE",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:1941"
+	},
+	{
+		"gun": "26.02.2016",
+		"day": "CUMA",
+		"bir": "ORMAN KEBABI",
+		"iki": "BULGUR P\u0130LAVI",
+		"uc": "DOMATESL\u0130 CORBA",
+		"dort": "HO\u015eAF",
+		"cal": "\u00d6\u011f\u00fcnl\u00fck Kalori:1821"
+	}]
+}

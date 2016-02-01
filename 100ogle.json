@@ -1,0 +1,149 @@
+{
+	"yemekler": [{
+		"gun": "01 Subat 2016",
+		"bir": "MERC\u0130MEK \u00c7ORBASI",
+		"iki": "KAVURMA",
+		"uc": "P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"dort": "KI\u015e SALATASI"
+	},
+	{
+		"gun": "02 Subat 2016",
+		"bir": "EZOGEL\u0130N \u00c7ORBASI",
+		"iki": "PATATES OTURTMA",
+		"uc": "SOSLU BULGUR P\u0130LAVI",
+		"dort": "YO\u011eURT"
+	},
+	{
+		"gun": "03 Subat 2016",
+		"bir": "SEBZEL\u0130 KI\u015e \u00c7ORBASI",
+		"iki": "G\u00dcVE\u00c7",
+		"uc": "ER\u0130\u015eTE",
+		"dort": "PORTAKAL"
+	},
+	{
+		"gun": "04 Subat 2016",
+		"bir": "YAYLA \u00c7ORBASI",
+		"iki": "FIRINDA TAVUK VE PATATES C\u0130PS",
+		"uc": "GARN\u0130T\u00dcRL\u00dc P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"dort": "VAN\u0130LYALI PUD\u0130NG"
+	},
+	{
+		"gun": "05 Subat 2016",
+		"bir": "TEL \u015eEHR\u0130YEL\u0130 \u00c7ORBA",
+		"iki": "ETL\u0130 KURU FASULYE",
+		"uc": "BULGUR P\u0130LAVI",
+		"dort": "TUR\u015eU"
+	},
+	{
+		"gun": "08 Subat 2016",
+		"bir": "V\u0130TAM\u0130N \u00c7ORBA",
+		"iki": "ETL\u0130 TAZE FASULYE",
+		"uc": "ER\u0130\u015eTE",
+		"dort": "YO\u011eURT"
+	},
+	{
+		"gun": "09 Subat 2016",
+		"bir": "YAYLA \u00c7ORBASI",
+		"iki": "SEBZEL\u0130 K\u00d6FTE",
+		"uc": "PEYN\u0130RL\u0130 MAKARNA",
+		"dort": "K\u0130V\u0130"
+	},
+	{
+		"gun": "10 Subat 2016",
+		"bir": "MERC\u0130MEK \u00c7ORBASI",
+		"iki": "ETL\u0130 BEZELYE",
+		"uc": "PATATESL\u0130 TEPS\u0130 B\u00d6RE\u011e\u0130",
+		"dort": "AYVA KOMPOSTOSU"
+	},
+	{
+		"gun": "11 Subat 2016",
+		"bir": "MANTAR \u00c7ORBASI",
+		"iki": "TAVUK D\u00d6NER",
+		"uc": "P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"dort": "CEV\u0130ZL\u0130 KABAK TATLISI"
+	},
+	{
+		"gun": "12 Subat 2016",
+		"bir": "AYRAN A\u015eI",
+		"iki": "FIRINDA BALIK",
+		"uc": "MERC\u0130MEKL\u0130 BULGUR P\u0130LAVI",
+		"dort": "SALATA"
+	},
+	{
+		"gun": "15 Subat 2016",
+		"bir": "S\u00dcZME MERC\u0130MEK \u00c7ORBASI",
+		"iki": "KIYMALI ISPANAK",
+		"uc": "SPAGETT\u0130",
+		"dort": "YO\u011eURT"
+	},
+	{
+		"gun": "16 Subat 2016",
+		"bir": "YAYLA \u00c7ORBASI",
+		"iki": "DALYAN K\u00d6FTE",
+		"uc": "ER\u0130\u015eTE",
+		"dort": "MANDAL\u0130NA"
+	},
+	{
+		"gun": "17 Subat 2016",
+		"bir": "EZOGEL\u0130N \u00c7ORBASI",
+		"iki": "FIRINDA TAVUK P\u0130RZOLA VE PATATES C\u0130PS",
+		"uc": "MEYHANE P\u0130LAVI",
+		"dort": "CEV\u0130ZL\u0130 TEL KADAYIF"
+	},
+	{
+		"gun": "18 Subat 2016",
+		"bir": "TEL \u015eEHR\u0130YEL\u0130 \u00c7ORBA",
+		"iki": "ETL\u0130 NOHUT",
+		"uc": "P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"dort": "CACIK"
+	},
+	{
+		"gun": "19 Subat 2016",
+		"bir": "K\u00d6Y \u00c7ORBASI",
+		"iki": "TERB\u0130YEL\u0130 K\u00d6FTE",
+		"uc": "MERC\u0130MEKL\u0130 BULGUR P\u0130LAVI",
+		"dort": "MEVS\u0130M SALATA"
+	},
+	{
+		"gun": "22 Subat 2016",
+		"bir": "TARHANA \u00c7ORBASI",
+		"iki": "KIYMALI YUMURTA",
+		"uc": "SOSLU MAKARNA",
+		"dort": "CACIK"
+	},
+	{
+		"gun": "23 Subat 2016",
+		"bir": "MERC\u0130MEK \u00c7ORBASI",
+		"iki": "\u0130ZM\u0130R K\u00d6FTE",
+		"uc": "ER\u0130\u015eTEL\u0130 BULGUR P\u0130LAVI",
+		"dort": "ELMA"
+	},
+	{
+		"gun": "24 Subat 2016",
+		"bir": "YAYLA \u00c7ORBASI",
+		"iki": "MEVS\u0130M T\u00dcRL\u00dc",
+		"uc": "P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"dort": "\u00dcZ\u00dcM HO\u015eAFI"
+	},
+	{
+		"gun": "25 Subat 2016",
+		"bir": "TUTMA\u00c7 \u00c7ORBA",
+		"iki": "TAVUK SOTE",
+		"uc": "ER\u0130\u015eTE",
+		"dort": "KEMALPA\u015eA TATLISI"
+	},
+	{
+		"gun": "26 Subat 2016",
+		"bir": "TAVUK SUYU \u00c7ORBA",
+		"iki": "KAYSER\u0130 MANTISI",
+		"uc": "BARBUNYA P\u0130LAK\u0130",
+		"dort": "S\u00dcTLA\u00c7"
+	},
+	{
+		"gun": "29 Subat 2016",
+		"bir": "MERC\u0130MEK \u00c7ORBASI",
+		"iki": "ETL\u0130 KURU FAS\u00dcLYE",
+		"uc": "P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"dort": "TUR\u015eU"
+	}]
+}

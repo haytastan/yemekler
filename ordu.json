@@ -1,0 +1,177 @@
+{
+	"yemekler": [{
+		"gun": "01.02.2016",
+		"bir": "MERC\u0130MEK \u00c7ORBA",
+		"iki": "YUFKALI KEBAP",
+		"uc": "\u015eEH.P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"dort": "YO\u011eURTLU KIRMIZI PANCAR SALATASI"
+	},
+	{
+		"gun": "02.02.2016",
+		"bir": "KREMALI ARPA \u015eEH. \u00c7ORBA",
+		"iki": "SEBZEL\u0130 TAVUK SARMA",
+		"uc": "DOM.BULGUR P\u0130LAVI",
+		"dort": "AYRAN"
+	},
+	{
+		"gun": "03.02.2016",
+		"bir": "TAVUK SUYU \u00c7ORBA",
+		"iki": "KA\u015eARLI FIRIN G\u00dcVE\u00c7",
+		"uc": "SEBZEL\u0130 G\u00dcL B\u00d6RE\u011e\u0130",
+		"dort": "HAVU\u00c7LU MISIRLI PANCAR SALATASI"
+	},
+	{
+		"gun": "04.02.2016",
+		"bir": "EZOGEL\u0130N \u00c7ORBA",
+		"iki": "ORMAN KEBABI",
+		"uc": "\u0130\u00c7 P\u0130LAV",
+		"dort": "TULUMBA TATLISI"
+	},
+	{
+		"gun": "05.02.2016",
+		"bir": "BROKOL\u0130 \u00c7ORBA",
+		"iki": "ETL\u0130 KURUFAS\u00dcLYE",
+		"uc": "DOM.BULGUR P\u0130LAVI",
+		"dort": "YO\u011eURT"
+	},
+	{
+		"gun": "&NBSP;",
+		"bir": "&NBSP;",
+		"iki": "&NBSP;",
+		"uc": "&NBSP;",
+		"dort": "&NBSP;"
+	},
+	{
+		"gun": "08.02.2016",
+		"bir": "MERC\u0130MEK \u00c7ORBA",
+		"iki": "SEBZEL\u0130 J\u00dcLYEN TAVUK KAVURMA",
+		"uc": "MAKARNA SALATASI",
+		"dort": "AYRAN"
+	},
+	{
+		"gun": "09.02.2016",
+		"bir": "ARPA \u015eEH.TAVUK \u00c7ORBA",
+		"iki": "ETL\u0130 NOHUT",
+		"uc": "GAR.BULGUR P\u0130LAVI",
+		"dort": "CACIK"
+	},
+	{
+		"gun": "10.02.2016",
+		"bir": "BROKOL\u0130 \u00c7ORBA",
+		"iki": "SARAY KEBABI",
+		"uc": "NOHUTLU P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"dort": "SAKIZLI MUHALLEB\u0130"
+	},
+	{
+		"gun": "11.02.2016",
+		"bir": "KREMALI SEBZE \u00c7ORBA",
+		"iki": "P\u00dcREL\u0130 ROSTO K\u00d6FTE",
+		"uc": "MEYHANE P\u0130LAVI",
+		"dort": "YO\u011eURT"
+	},
+	{
+		"gun": "12.02.2016",
+		"bir": "EZOGEL\u0130N \u00c7ORBA",
+		"iki": "SEBZEL\u0130 P\u0130L\u0130\u00c7 TOPKAPI",
+		"uc": "PEYN\u0130RL\u0130 TEPS\u0130 B\u00d6RE\u011e\u0130",
+		"dort": "KARI\u015eIK KOMPOSTO"
+	},
+	{
+		"gun": "&NBSP;",
+		"bir": "&NBSP;",
+		"iki": "&NBSP;",
+		"uc": "&NBSP;",
+		"dort": "&NBSP;"
+	},
+	{
+		"gun": "15.02.2016",
+		"bir": "MERC\u0130MEK \u00c7ORBA",
+		"iki": "TAVUK PANE",
+		"uc": "RUS SALATASI",
+		"dort": "MUHALLEB\u0130L\u0130 TEL KADAYIF TATLISI"
+	},
+	{
+		"gun": "16.02.2016",
+		"bir": "DOMATES \u00c7ORBA (KROTON)",
+		"iki": "SULTAN KEBABI",
+		"uc": "DOM.BULGUR P\u0130LAVI",
+		"dort": "CACIK"
+	},
+	{
+		"gun": "17.02.2016",
+		"bir": "KREMALI ARPA \u015eEH. \u00c7ORBA",
+		"iki": "SOYA SOSLU TAVUK",
+		"uc": "\u015eEH.P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"dort": "YO\u011eURTLU HAVU\u00c7 SALATASI"
+	},
+	{
+		"gun": "18.02.2016",
+		"bir": "EZOGEL\u0130N \u00c7ORBA",
+		"iki": "TAVUK D\u00d6NER (C\u0130PS,S\u00d6\u011e\u00dc\u015e)",
+		"uc": "NOHUTLU P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"dort": "AYRAN"
+	},
+	{
+		"gun": "19.02.2016",
+		"bir": "T.SUYU \u00c7ORBA",
+		"iki": "ETL\u0130 NOHUT",
+		"uc": "PATATESL\u0130 TEPS\u0130 B\u00d6RE\u011e\u0130",
+		"dort": "MEVS\u0130M SALATA"
+	},
+	{
+		"gun": "&NBSP;",
+		"bir": "&NBSP;",
+		"iki": "&NBSP;",
+		"uc": "&NBSP;",
+		"dort": "&NBSP;"
+	},
+	{
+		"gun": "22.02.2016",
+		"bir": "KREMALI SEBZE \u00c7ORBA",
+		"iki": "P\u00dcREL\u0130 KADINBUDU K\u00d6FTE",
+		"uc": "BOLONEZ SOSLU SPAGETT\u0130",
+		"dort": "YO\u011eURT"
+	},
+	{
+		"gun": "23.02.2016",
+		"bir": "MERC\u0130MEK \u00c7ORBA",
+		"iki": "TAS KEBABI",
+		"uc": "ISPANAKLI G\u00dcL B\u00d6RE\u011e\u0130",
+		"dort": "ET\u0130MEK TATLISI"
+	},
+	{
+		"gun": "24.02.2016",
+		"bir": "KREMALI ARPA \u015eEH.\u00c7ORBA",
+		"iki": "TAVUK HA\u015eLAMA",
+		"uc": "DOM.BULGUR P\u0130LAVI",
+		"dort": "MEVS\u0130M SALATA"
+	},
+	{
+		"gun": "25.02.2016",
+		"bir": "EZOGEL\u0130N \u00c7ORBA",
+		"iki": "PATLICAN KEBABI",
+		"uc": "\u015eEH.P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"dort": "AYRAN"
+	},
+	{
+		"gun": "26.02.2016",
+		"bir": "T.SUYU \u00c7ORBA",
+		"iki": "SEBZEL\u0130 FIRIN K\u00d6FTE",
+		"uc": "BE\u015eAMEL SOSLU FIRIN MAKARNA",
+		"dort": "YO\u011eURTLU TARATOR"
+	},
+	{
+		"gun": "&NBSP;",
+		"bir": "&NBSP;",
+		"iki": "&NBSP;",
+		"uc": "&NBSP;",
+		"dort": "&NBSP;"
+	},
+	{
+		"gun": "29.02.2016",
+		"bir": "MERC\u0130MEK \u00c7ORBA",
+		"iki": "SEB.J\u00dcLYEN TAVUKKAVURMA",
+		"uc": "DOM.BULGUR P\u0130LAVI",
+		"dort": "YO\u011eURT"
+	}]
+}
