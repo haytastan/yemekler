@@ -1,38 +1,38 @@
 {
 	"yemekler": [{
-		"gun": "04.04.2016",
-		"bir": "KREMALI SEBZE \u00c7ORBA",
-		"iki": "TAVUK TANDIR",
-		"uc": "DOM.BULGUR P\u0130LAVI",
-		"dort": "CACIK"
+		"gun": "02.05.2016",
+		"bir": "DOMATES \u00c7ORBA (KROTON)",
+		"iki": "SA\u00c7 KAVURMA",
+		"uc": "\u015eEH.P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"dort": "TULUMBA TATLISI\/YO\u011eURT"
 	},
 	{
-		"gun": "05.04.2016",
+		"gun": "03.05.2016",
 		"bir": "MERC\u0130MEK \u00c7ORBA",
-		"iki": "KADINBUDU K\u00d6FTE(P\u00dcREL\u0130)",
-		"uc": "SPAGETT\u0130",
-		"dort": "KARI\u015eIK KOMPOSTO\/YO\u011eURT"
+		"iki": "ETL\u0130 NOHUT",
+		"uc": "DOM.BULGUR P\u0130LAVI",
+		"dort": "MEVS\u0130M SALATA"
 	},
 	{
-		"gun": "06.04.2016",
-		"bir": "D\u00dc\u011e\u00dcN \u00c7ORBA",
+		"gun": "04.05.2016",
+		"bir": "SO\u011eUK \u00c7ORBA",
+		"iki": "KARI\u015eIK DOLMA(YO\u011eURT))",
+		"uc": "PATATESL\u0130 TEPS\u0130 B\u00d6RE\u011e\u0130",
+		"dort": "KARI\u015eIK KOMPOSTO"
+	},
+	{
+		"gun": "05.05.2016",
+		"bir": "EZOGEL\u0130N \u00c7ORBA",
 		"iki": "TAVUK D\u00d6NER(C\u0130PS,S\u00d6\u011e\u00dc\u015e)",
 		"uc": "\u015eEH.P\u0130R\u0130N\u00c7 P\u0130LAVI",
 		"dort": "AYRAN"
 	},
 	{
-		"gun": "07.04.2016",
-		"bir": "TEL \u015eEH.\u00c7ORBA",
-		"iki": "TAS KEBABI",
-		"uc": "SEBZEL\u0130 TEPS\u0130 B\u00d6RE\u011e\u0130\/\u015eEH.P\u0130R\u0130N\u00c7 P\u0130LAVI",
-		"dort": "\u015eEKERPARE TATLI\/YO\u011eURT"
-	},
-	{
-		"gun": "08.04.2016",
-		"bir": "EZOGEL\u0130N \u00c7ORBA",
-		"iki": "MANTARLI JULYEN TAVUK KAVURMA",
-		"uc": "\u015eEH.P\u0130R\u0130N\u00c7 P\u0130LAVI",
-		"dort": "MEVS\u0130M SALATA"
+		"gun": "06.05.2016",
+		"bir": "KREMALI TAVUK \u00c7ORBA",
+		"iki": "BAH\u00c7EVAN KEBABI",
+		"uc": "\u0130\u00c7 P\u0130LAV",
+		"dort": "MEYVE"
 	},
 	{
 		"gun": "&NBSP;",
@@ -42,81 +42,39 @@
 		"dort": "&NBSP;"
 	},
 	{
-		"gun": "11.04.2016",
-		"bir": "T.SUYU \u00c7ORBA",
-		"iki": "SULTAN KEBABI",
-		"uc": "DOM.BULGUR P\u0130LAVI",
-		"dort": "YO\u011eURT"
-	},
-	{
-		"gun": "12.04.2016",
+		"gun": "09.05.2016",
 		"bir": "MERC\u0130MEK \u00c7ORBA",
-		"iki": "ZEYT\u0130N SOSLU TAVUK",
+		"iki": "TAVUK TANDIR",
 		"uc": "\u015eEH.P\u0130R\u0130N\u00c7 P\u0130LAVI",
-		"dort": "KIRMIZI PANCAR SALATA (MISIRLI, HAVU\u00c7LU)"
-	},
-	{
-		"gun": "13.04.2016",
-		"bir": "TOYGA \u00c7ORBA",
-		"iki": "ETL\u0130 G\u00dcVE\u00c7",
-		"uc": "PEYN\u0130RL\u0130 MAKARNA",
-		"dort": "PORTAKAL"
-	},
-	{
-		"gun": "14.04.2016",
-		"bir": "EZOGEL\u0130N \u00c7ORBA",
-		"iki": "TAVUK D\u00d6NER(C\u0130PS, S\u00d6\u011e\u00dc\u015e)",
-		"uc": "\u015eEH. P\u0130R\u0130N\u00c7 P\u0130LAVI",
-		"dort": "AYRAN"
-	},
-	{
-		"gun": "15.04.2016",
-		"bir": "ARPA \u015eEH. \u00c7ORBA",
-		"iki": "ORMAN KEBABI",
-		"uc": "DOM. BULGUR P\u0130LAVI",
-		"dort": "\u015eOKELLA\/YO\u011eURT"
-	},
-	{
-		"gun": "&NBSP;",
-		"bir": "&NBSP;",
-		"iki": "&NBSP;",
-		"uc": "&NBSP;",
-		"dort": "&NBSP;"
-	},
-	{
-		"gun": "18.04.2016",
-		"bir": "MERC\u0130MEK \u00c7ORBA",
-		"iki": "ETL\u0130 KURUFAS\u00dcLYE",
-		"uc": "\u015eEH. P\u0130R\u0130N\u00c7 P\u0130LAVI",
-		"dort": "MEVS\u0130M SALATA"
-	},
-	{
-		"gun": "19.04.2016",
-		"bir": "TAVUK SUYU \u00c7ORBA",
-		"iki": "SA\u00c7 KAVURMA",
-		"uc": "DOM. BULGUR P\u0130LAVI",
-		"dort": "CACIK"
-	},
-	{
-		"gun": "20.04.2016",
-		"bir": "TOYGA \u00c7ORBA",
-		"iki": "P\u0130L\u0130\u00c7 KAPAMA",
-		"uc": "DOMATESL\u0130, B\u0130BERL\u0130 ER\u0130\u015eTE",
-		"dort": "AYRAN"
-	},
-	{
-		"gun": "21.04.2016",
-		"bir": "EZOGEL\u0130N \u00c7ORBA",
-		"iki": "SEBZEL\u0130 J\u00dcLYEN ET SOTE",
-		"uc": "DOM.BULGUR P\u0130LAVI",
 		"dort": "MUHALLEB\u0130L\u0130 TEL KADAYIF TATLISI"
 	},
 	{
-		"gun": "22.04.2016",
-		"bir": "D\u00dc\u011e\u00dcN \u00c7ORBA",
-		"iki": "KARI\u015eIK MUSAKKA",
-		"uc": "\u015eEH. P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"gun": "10.05.2016",
+		"bir": "SO\u011eUK \u00c7ORBA",
+		"iki": "ARNAVUT C\u0130\u011eER\u0130",
+		"uc": "DOM.BULGUR P\u0130LAVI",
+		"dort": "AYRAN"
+	},
+	{
+		"gun": "11.05.2016",
+		"bir": "DOMATES \u00c7ORBA (KROTON)",
+		"iki": "PATLICAN KEBABI",
+		"uc": "PEYN\u0130RL\u0130 ER\u0130\u015eTE",
 		"dort": "YO\u011eURT"
+	},
+	{
+		"gun": "12.05.2016",
+		"bir": "T.SUYU \u00c7ORBA",
+		"iki": "ETL\u0130 KURUFAS\u00dcLYE",
+		"uc": "\u015eEH.P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"dort": "MEVS\u0130M SALATA"
+	},
+	{
+		"gun": "13.05.2016",
+		"bir": "EZOGEL\u0130N \u00c7ORBA",
+		"iki": "TAVUK D\u00d6NER (C\u0130PS,S\u00d6\u011e\u00dc\u015e)",
+		"uc": "DOM.BULGUR P\u0130LAVI",
+		"dort": "AYRAN"
 	},
 	{
 		"gun": "&NBSP;",
@@ -126,38 +84,98 @@
 		"dort": "&NBSP;"
 	},
 	{
-		"gun": "25.04.2016",
-		"bir": "PANCAR \u00c7ORBA (MISIR EKME\u011e\u0130)",
-		"iki": "SEBZEL\u0130 TAVUK SARMA",
-		"uc": "DOM.BULGUR P\u0130LAVI",
-		"dort": "KARI\u015eIK KOMPOSTO"
-	},
-	{
-		"gun": "26.04.2016",
-		"bir": "KREMALI SEBZE \u00c7ORBA",
-		"iki": "\u0130SL\u0130M KEBABI",
-		"uc": "PEYN\u0130RL\u0130 TEPS\u0130 B\u00d6RE\u011e\u0130",
+		"gun": "16.05.2016",
+		"bir": "TOYGA \u00c7ORBA",
+		"iki": "KA\u015eARLI FIRIN G\u00dcVE\u00c7",
+		"uc": "\u0130\u00c7 P\u0130LAV",
 		"dort": "YO\u011eURT"
 	},
 	{
-		"gun": "27.04.2016",
-		"bir": "TOYGA \u00c7ORBA",
-		"iki": "FIRINDA BE\u015eAMEL SOSLU TAVUK",
-		"uc": "DOM.BULGUR P\u0130LAVI",
+		"gun": "17.05.2016",
+		"bir": "MERC\u0130MEK \u00c7ORBA",
+		"iki": "\u00c7\u0130FTL\u0130K KEBABI",
+		"uc": "\u015eEH.P\u0130R\u0130N\u00c7 P\u0130LAVI",
 		"dort": "\u015eEKERPARE TATLISI"
 	},
 	{
-		"gun": "28.04.2016",
-		"bir": "MERC\u0130MEK \u00c7ORBA",
-		"iki": "MANTARLI ET SOTE",
-		"uc": "\u015eEH. P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"gun": "18.05.2016",
+		"bir": "DOMATES \u00c7ORBA(KROTON)",
+		"iki": "KA\u015eARLI TAVUK K\u00d6FTE(C\u0130PS,S\u00d6\u011e\u00dc\u015e)",
+		"uc": "DOM.BULGUR P\u0130LAVI",
+		"dort": "AYRAN"
+	},
+	{
+		"gun": "19.05.2016",
+		"bir": "RESM\u0130 TAT\u0130L"
+	},
+	{
+		"gun": "20.05.2016",
+		"bir": "EZOGEL\u0130N \u00c7ORBA",
+		"iki": "PATLICAN MUSAKKA",
+		"uc": "\u015eEH.P\u0130R\u0130N\u00c7 P\u0130LAVI",
 		"dort": "CACIK"
 	},
 	{
-		"gun": "29.04.2016",
-		"bir": "DOMATES \u00c7ORBA (KROTON)",
-		"iki": "TAVUK D\u00d6NER (C\u0130PS,S\u00d6\u011e\u00dc\u015e)",
+		"gun": "&NBSP;",
+		"bir": "&NBSP;",
+		"iki": "&NBSP;",
+		"uc": "&NBSP;",
+		"dort": "&NBSP;"
+	},
+	{
+		"gun": "23.05.2016",
+		"bir": "SO\u011eUK \u00c7ORBA",
+		"iki": "ET YAHN\u0130",
 		"uc": "DOM.BULGUR P\u0130LAVI",
+		"dort": "YO\u011eURT"
+	},
+	{
+		"gun": "24.05.2016",
+		"bir": "MERC\u0130MEK \u00c7ORBA",
+		"iki": "TAVUK D\u00d6NER (C\u0130PS,S\u00d6\u011e\u00dc\u015e)",
+		"uc": "\u015eEH.P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"dort": "AYRAN"
+	},
+	{
+		"gun": "25.05.2016",
+		"bir": "EZOGEL\u0130N \u00c7ORBA",
+		"iki": "SEBZEL\u0130 KEBAP",
+		"uc": "DOM.BULGUR P\u0130LAVI",
+		"dort": "REVAN\u0130"
+	},
+	{
+		"gun": "26.05.2016",
+		"bir": "TOYGA \u00c7ORBA",
+		"iki": "SEBZEL\u0130 TAVUK SOTE",
+		"uc": "\u015eEH.P\u0130R\u0130N\u00c7 P\u0130LAVI",
+		"dort": "AYRAN"
+	},
+	{
+		"gun": "27.05.2016",
+		"bir": "KREMALI TAVUK \u00c7ORBA",
+		"iki": "ETL\u0130 YAZ T\u00dcRL\u00dcS\u00dc",
+		"uc": "DOM.BULGUR P\u0130LAVI",
+		"dort": "MEYVE"
+	},
+	{
+		"gun": "&NBSP;",
+		"bir": "&NBSP;",
+		"iki": "&NBSP;",
+		"uc": "&NBSP;",
+		"dort": "&NBSP;"
+	},
+	{
+		"gun": "30.05.2016",
+		"bir": "MERC\u0130MEK \u00c7ORBA",
+		"iki": "P\u0130L\u0130\u00c7 KAVURMA",
+		"uc": "MAKARNA YO\u011eURTLAMASI",
+		"dort": "KARI\u015eIK KOMPOSTO"
+	},
+	{
+		"gun": "31.05.2016",
+		"bir": "DOMATES \u00c7ORBA(KROTON)",
+		"iki": "T.D\u00d6NER(C\u0130PS,S\u00d6\u011e\u00dc\u015e)",
+		"uc": "\u015eEH.P\u0130R\u0130N\u00c7 P\u0130LAVI",
 		"dort": "AYRAN"
 	}]
 }
