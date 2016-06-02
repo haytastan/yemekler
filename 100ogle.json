@@ -1,177 +1,156 @@
 {
 	"yemekler": [{
-		"gun": "25 Mayis 2016",
+		"gun": "01 Haziran 2016",
+		"bir": "EZOGEL\u0130N \u00c7ORBA(140)",
+		"iki": "TERB\u0130YEL\u0130 K\u00d6FTE(350)",
+		"uc": "SOSLU SPAGETT\u0130(275)",
+		"dort": "MUHALLEB\u0130 (220)"
+	},
+	{
+		"gun": "02 Haziran 2016",
+		"bir": "DOMATES \u00c7ORBASI(100)",
+		"iki": "PATATES MUSAKKA(370)",
+		"uc": "SEBZEL\u0130 MAKARNA(275)",
+		"dort": "TULUMBA TATLISI(420)"
+	},
+	{
+		"gun": "03 Haziran 2016",
+		"bir": "TEL \u015eEHR\u0130YE \u00c7ORBASI(136)",
+		"iki": "TAVUK D\u00d6NER(305)",
+		"uc": "P\u0130R\u0130N\u00c7 P\u0130LAVI(306)",
+		"dort": "CACIK(87)"
+	},
+	{
+		"gun": "06 Haziran 2016",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "26 Mayis 2016",
+		"gun": "07 Haziran 2016",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "27 Mayis 2016",
+		"gun": "08 Haziran 2016",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "28 Mayis 2016",
+		"gun": "09 Haziran 2016",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "29 Mayis 2016",
+		"gun": "10 Haziran 2016",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "02 Mayis 2016",
-		"bir": "TEL \u015eEHR\u0130YE \u00c7ORBASI(136CAL)",
-		"iki": "ETL\u0130 KURU FAS\u00dcLYE(270CAL)",
-		"uc": "MERC\u0130MEKL\u0130 BULGUR P\u0130LAVI(275CAL)",
-		"dort": "CACIK(87CAL)"
+		"gun": "13 Haziran 2016",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
 	},
 	{
-		"gun": "03 Mayis 2016",
-		"bir": "FESLE\u011eENL\u0130 DOMATES \u00c7ORBASI(200CAL)",
-		"iki": "PARMAK KEBAP(422CAL)",
-		"uc": "PEYN\u0130RL\u0130 MAKARNA(275CAL)",
-		"dort": "MEVS\u0130M SALATA(50CAL)"
+		"gun": "14 Haziran 2016",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
 	},
 	{
-		"gun": "04 Mayis 2016",
-		"bir": "MERC\u0130MEK \u00c7ORBASI(128CAL)",
-		"iki": "FIRINDA TAVUK BAGET- C\u0130PS",
-		"uc": "DOMATESL\u0130 P\u0130R\u0130N\u00c7 P\u0130LAVI",
-		"dort": "SUPANGLE"
+		"gun": "15 Haziran 2016",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
 	},
 	{
-		"gun": "05 Mayis 2016",
-		"bir": "EZOGEL\u0130N \u00c7ORBASI(140CAL)",
-		"iki": "KIYMALI ISPANAK(200CAL)",
-		"uc": "PATATESL\u0130 KOL B\u00d6RE\u011e\u0130",
-		"dort": "MEYVE SUYU"
+		"gun": "16 Haziran 2016",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
 	},
 	{
-		"gun": "06 Mayis 2016",
-		"bir": "YAYLA \u00c7ORBASI(170CAL)",
-		"iki": " MEVS\u0130M T\u00dcRL\u00dc",
-		"uc": "SOSLU SPAGETT\u0130(275CAL)",
-		"dort": "TULUMBA TATLISI"
+		"gun": "17 Haziran 2016",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
 	},
 	{
-		"gun": "09 Mayis 2016",
-		"bir": "MERC\u0130MEK \u00c7ORBASI(128CAL)",
-		"iki": "ETL\u0130 NOHUT(270CAL)",
-		"uc": "SADE P\u0130R\u0130N\u00c7 P\u0130LAVI(306CAL)",
-		"dort": "CACIK(87CAL)"
+		"gun": "20 Haziran 2016",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
 	},
 	{
-		"gun": "10 Mayis 2016",
-		"bir": "TARHANA \u00c7ORBASI",
-		"iki": "B\u0130BER DOLMA",
-		"uc": "YO\u011eURT(30CAL)",
-		"dort": "\u015eEKERPARE"
+		"gun": "21 Haziran 2016",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
 	},
 	{
-		"gun": "11 Mayis 2016",
-		"bir": "TEL \u015eEHR\u0130YE \u00c7ORBASI(136CAL)",
-		"iki": "TAVUK D\u00d6NER(305CAL)",
-		"uc": "SOSLU BULGUR P\u0130LAVI(275CAL)",
-		"dort": "SALATA(50CAL)"
+		"gun": "22 Haziran 2016",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
 	},
 	{
-		"gun": "12 Mayis 2016",
-		"bir": "YAYLA \u00c7ORBASI(170CAL)",
-		"iki": "YUMURTALI ISPANAK(200CAL)",
-		"uc": "SEBZEL\u0130 MAKARNA",
-		"dort": "KOKTEYL HO\u015eAF"
+		"gun": "23 Haziran 2016",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
 	},
 	{
-		"gun": "13 Mayis 2016",
-		"bir": "EZOGEL\u0130N \u00c7ORBASI(140CAL)",
-		"iki": "SULU K\u00d6FTE",
-		"uc": "ER\u0130\u015eTEL\u0130 P\u0130R\u0130N\u00c7 P\u0130LAVI(275CAL)",
-		"dort": "MEYVE"
+		"gun": "24 Haziran 2016",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
 	},
 	{
-		"gun": "16 Mayis 2016",
-		"bir": "S\u00dcZME MERC\u0130MEK \u00c7ORBASI(120CAL)",
-		"iki": " TAVUK P\u0130RZOLA-C\u0130PS",
-		"uc": "BEZELYEL\u0130 P\u0130R\u0130N\u00c7 P\u0130LAVI(275CAL)",
-		"dort": "CACIK(87CAL)"
+		"gun": "27 Haziran 2016",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
 	},
 	{
-		"gun": "17 Mayis 2016",
-		"bir": "DOMATES \u00c7ORBASI(100CAL)",
-		"iki": "PATATES MUSAKKA",
-		"uc": "MISIRLI BULGUR P\u0130LAVI(275CAL)",
-		"dort": "TEL KADAYIF"
+		"gun": "28 Haziran 2016",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
 	},
 	{
-		"gun": "18 Mayis 2016",
-		"bir": "K\u00d6Y \u00c7ORBASI",
-		"iki": "KADIN BUDU K\u00d6FTE\/P\u00dcRE",
-		"uc": "PEYN\u0130RL\u0130 MAKARNA",
-		"dort": "SALATA(50CAL)"
+		"gun": "29 Haziran 2016",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
 	},
 	{
-		"gun": "19 Mayis 2016",
-		"bir": "19 MAYIS",
-		"iki": "GEN\u00c7L\u0130K VE",
-		"uc": "SPOR",
-		"dort": "BAYRAMI"
-	},
-	{
-		"gun": "20 Mayis 2016",
-		"bir": "MERC\u0130MEK \u00c7ORBASI(128CAL)",
-		"iki": "KARNIYARIK",
-		"uc": "SADE P\u0130R\u0130N\u00c7 P\u0130LAVI(306CAL)",
-		"dort": "AYRAN"
-	},
-	{
-		"gun": "23 Mayis 2016",
-		"bir": "\u015eAFAK \u00c7ORBA(200CAL)",
-		"iki": "ETL\u0130 KURU FAS\u00dcLYE(270CAL)",
-		"uc": "SOSLU BULGUR P\u0130LAVI(275CAL)",
-		"dort": "MEYVE"
-	},
-	{
-		"gun": "24 Mayis 2016",
-		"bir": "\u00c7ERKEZ \u00c7ORBA(220CAL)",
-		"iki": "KOR\u0130 SOSLU TAVUK",
-		"uc": "NOHUTLU P\u0130R\u0130N\u00c7 P\u0130LAVI(306CAL)",
-		"dort": "\u015eAM TATLISI"
-	},
-	{
-		"gun": "25 Mayis 2016",
-		"bir": "YAYLA \u00c7ORBASI(170CAL)",
-		"iki": "\u0130ZM\u0130R K\u00d6FTE",
-		"uc": "FESLE\u011eENL\u0130 SOSLU MAKARNA",
-		"dort": "YO\u011eURT(30CAL)"
-	},
-	{
-		"gun": "26 Mayis 2016",
-		"bir": "TEL \u015eEHR\u0130YE \u00c7ORBASI(136CAL)",
-		"iki": "SEBZE KIZARTMASI",
-		"uc": "BULGUR P\u0130LAVI(275CAL)",
-		"dort": "TUR\u015eU(20CAL)"
-	},
-	{
-		"gun": "27 Mayis 2016",
-		"bir": "S\u00dcZME MERC\u0130MEK \u00c7ORBASI(120CAL)",
-		"iki": "KAVURMA",
-		"uc": "SADE P\u0130R\u0130N\u00c7 P\u0130LAVI(306CAL)",
-		"dort": "SALATA(50CAL)"
+		"gun": "30 Haziran 2016",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
 	}]
 }
