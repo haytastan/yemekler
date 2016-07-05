@@ -1,153 +1,147 @@
 {
-	"yemekler": [{
-		"gun": "01 Haziran 2016",
-		"bir": "EZOGEL\u0130N \u00c7ORBA(140)",
-		"iki": "TERB\u0130YEL\u0130 K\u00d6FTE(350)",
-		"uc": "SOSLU SPAGETT\u0130(275)",
-		"dort": "MUHALLEB\u0130 (220)"
-	},
+	"yemekler": [
 	{
-		"gun": "02 Haziran 2016",
-		"bir": "DOMATES \u00c7ORBASI(100)",
-		"iki": "PATATES MUSAKKA(370)",
-		"uc": "SEBZEL\u0130 MAKARNA(275)",
-		"dort": "TULUMBA TATLISI(420)"
-	},
-	{
-		"gun": "03 Haziran 2016",
-		"bir": "TEL \u015eEHR\u0130YE \u00c7ORBASI(136)",
-		"iki": "TAVUK D\u00d6NER(305)",
-		"uc": "P\u0130R\u0130N\u00c7 P\u0130LAVI(306)",
-		"dort": "CACIK(87)"
-	},
-	{
-		"gun": "06 Haziran 2016",
+		"gun": "01 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "07 Haziran 2016",
+		"gun": "04 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "08 Haziran 2016",
+		"gun": "05 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "09 Haziran 2016",
+		"gun": "06 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "10 Haziran 2016",
+		"gun": "07 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "13 Haziran 2016",
+		"gun": "08 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "14 Haziran 2016",
+		"gun": "11 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "15 Haziran 2016",
+		"gun": "12 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "16 Haziran 2016",
+		"gun": "13 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "17 Haziran 2016",
+		"gun": "14 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "20 Haziran 2016",
+		"gun": "15 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "21 Haziran 2016",
+		"gun": "18 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "22 Haziran 2016",
+		"gun": "19 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "23 Haziran 2016",
+		"gun": "20 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "24 Haziran 2016",
+		"gun": "21 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "27 Haziran 2016",
+		"gun": "22 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "28 Haziran 2016",
+		"gun": "25 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "29 Haziran 2016",
+		"gun": "26 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "30 Haziran 2016",
+		"gun": "27 \t\t\t\tTemmuz -",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
+	},
+	{
+		"gun": "28 \t\t\t\tTemmuz -",
+		"bir": "",
+		"iki": "",
+		"uc": "",
+		"dort": ""
+	},
+	{
+		"gun": "29 \t\t\t\tTemmuz -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
