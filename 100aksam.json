@@ -1,154 +1,139 @@
 {
-	"yemekler": [
-	{
-		"gun": "01 \t\t\t\tEyl\u00fcl -",
+	"yemekler": [{
+		"gun": "03 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "02 \t\t\t\tEyl\u00fcl -",
+		"gun": "04 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "05 \t\t\t\tEyl\u00fcl -",
+		"gun": "05 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "06 \t\t\t\tEyl\u00fcl -",
+		"gun": "06 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "07 \t\t\t\tEyl\u00fcl -",
+		"gun": "07 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "08 \t\t\t\tEyl\u00fcl -",
+		"gun": "10 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "09 \t\t\t\tEyl\u00fcl -",
+		"gun": "11 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "12 \t\t\t\tEyl\u00fcl -",
+		"gun": "12 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "13 \t\t\t\tEyl\u00fcl -",
+		"gun": "13 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "14 \t\t\t\tEyl\u00fcl -",
+		"gun": "14 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "15 \t\t\t\tEyl\u00fcl -",
+		"gun": "17 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "16 \t\t\t\tEyl\u00fcl -",
-		"bir": "kuru fas\u00fclye(28)",
-		"iki": "pilav(61)",
-		"uc": "cac\u0131k(28)",
-		"dort": "\u00e7orba2(47)"
-	},
-	{
-		"gun": "19 \t\t\t\tEyl\u00fcl -",
+		"gun": "18 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "20 \t\t\t\tEyl\u00fcl -",
+		"gun": "19 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "21 \t\t\t\tEyl\u00fcl -",
+		"gun": "20 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "22 \t\t\t\tEyl\u00fcl -",
+		"gun": "21 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "23 \t\t\t\tEyl\u00fcl -",
+		"gun": "24 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "26 \t\t\t\tEyl\u00fcl -",
+		"gun": "25 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "27 \t\t\t\tEyl\u00fcl -",
+		"gun": "26 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "28 \t\t\t\tEyl\u00fcl -",
+		"gun": "27 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
 		"dort": ""
 	},
 	{
-		"gun": "29 \t\t\t\tEyl\u00fcl -",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
-	},
-	{
-		"gun": "30 \t\t\t\tEyl\u00fcl -",
+		"gun": "28 \t\t\t\tEkim -",
 		"bir": "",
 		"iki": "",
 		"uc": "",
