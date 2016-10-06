@@ -1,0 +1,14 @@
+[{
+	"appName": "com.agtokty.gaziantepyemekhane",
+	"ogun": 1,
+	"urls": [{
+		"bir": "https://raw.githubusercontent.com/agtokty/yemekler/master/gaziantep.json"
+	}]
+},
+{
+	"appName": "com.agtokty.yyyemekhane",
+	"ogun": 2",urls": [{
+		"bir": "https://raw.githubusercontent.com/agtokty/yemekler/master/100aksam.json",
+		"iki": "https://raw.githubusercontent.com/agtokty/yemekler/master/100ogle.json"
+	}]
+}]
