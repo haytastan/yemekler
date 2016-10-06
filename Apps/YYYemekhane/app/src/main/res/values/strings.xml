@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yüzüncü Yıl Yemekhane</string>
+    <string name="update">Güncelle</string>
+    <string name="share">Paylaş</string>
+	<string name="aksam">Akşam Yemeği</string>
+	<string name="ogle">Öğle Yemeği</string>
+	<string name="lutfen">Lütfen Yemek Listesini Güncelleyiniz</string>
+	<string name="title">Yüzüncü Yıl Üniversitesi Yemekhane Uygulaması</string>
+	<string name="afiyet">AFİYET OLSUN</string>
+	<string name="listtitle">Aylık Yemek Listesi</string>
+	<string name="about">Hakkında</string>
+	<string name="boglelist">Öğle Yemek Listesi</string>
+	<string name="baksamlist">Akşam Yemek Listesi</string>
+	<string name="bbugun">Günün Yemeği</string>
+	<string name="appabout">Yüzüncü Yıl Üniversitesi Yemakhane uygulaması sayesinde yemekhanede sunulan yemeklerin listesine kolayca ulaşırsınız. 
+	        		 Uygulama ile ilgili görüş ve önerilerini  email adresine yollabilirsiniz.\n
+	        		 \t\t agitoktay@gmail.com</string>
+	
+	
+</resources>
