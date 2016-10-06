@@ -46,8 +46,9 @@ captures/
 *.iml
 .idea/workspace.xml
 .idea/libraries
-/Apps/YYYemekhane/.idea/workspace.xml
+/Apps/YYYemekhane/projectFilesBackup/
 /Apps/YYYemekhane/.idea/libraries
+/Apps/YYYemekhane/.idea/workspace.xml
 
 # Keystore files
 *.jks
