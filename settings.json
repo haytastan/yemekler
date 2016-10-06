@@ -7,7 +7,8 @@
 },
 {
 	"appName": "com.agtokty.yyyemekhane",
-	"ogun": 2",urls": [{
+	"ogun": 2,
+	"urls": [{
 		"bir": "https://raw.githubusercontent.com/agtokty/yemekler/master/100aksam.json",
 		"iki": "https://raw.githubusercontent.com/agtokty/yemekler/master/100ogle.json"
 	}]
