@@ -30,6 +30,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import com.agtokty.Settings;
+import com.agtokty.YemekhaneUtil;
 import com.agtokty.database.YemekDB;
 import com.agtokty.models.YYYemek;
 import com.agtokty.models.YYYemekListesi;
@@ -213,143 +214,67 @@ public class MainActivity extends Activity implements OnClickListener {
     }
 
     public boolean updateJSONdata() {
-        //mCommentList = new ArrayList<HashMap<String, String>>();
+
         JSONParser jParser = new JSONParser();
         YemekDB ydb = new YemekDB(MainActivity.this);
         ydb.open();
         ydb.recreate();
+        ydb.close();
 
         Links links = new Links();
 
-        Settings _settings = jParser.getSettings();
 
-        if (!_settings.urls.isEmpty()) {
+        Settings _settings = null;
+        try {
+            _settings = jParser.getSettings();
+        } catch (Exception exp) {
+            //Hata alındı devam et..
+        }
+
+        if (_settings != null && _settings.urls != null && !_settings.urls.isEmpty()) {
 
             for (Settings.ServiceUrl url : _settings.urls) {
 
-                YYYemekListesi yemekListesiOglen = jParser.getYemekler(url.bir);
-                YYYemekListesi yemekListesiAksam = jParser.getYemekler(url.iki);
+                try {
+                    YYYemekListesi yemekListesiOglen = jParser.getYemekler(url.bir);
+                    YYYemekListesi yemekListesiAksam = jParser.getYemekler(url.iki);
 
-                if (yemekListesiOglen != null && yemekListesiOglen.yemekler != null && !yemekListesiOglen.yemekler.isEmpty()) {
-                    String type = "oglen";
-                    for (YYYemek yemek : yemekListesiOglen.yemekler) {
-                        String[] kelime = null;
-                        kelime = yemek.gun.split(" ");
-                        String date = kelime[0] + "-" + hangiay(kelime[1]) + "-" + kelime[2];
-
-                        ydb.open();
-                        ydb.add(date, yemek.bir, yemek.iki, yemek.uc, yemek.dort, type);
-                        ydb.close();
-
-                        Log.i("tag", date + "\n-" + yemek.bir + "\n-" + yemek.iki + "\n-" + yemek.uc + "\n-" + yemek.dort + "\n--------------");
-                    }
-                }
-
-                if (yemekListesiAksam != null && yemekListesiAksam.yemekler != null && !yemekListesiAksam.yemekler.isEmpty()) {
-                    String type = "aksam";
-                    for (YYYemek yemek : yemekListesiAksam.yemekler) {
-                        String[] kelime = null;
-                        kelime = yemek.gun.split(" ");
-                        String date = kelime[0] + "-" + hangiay(kelime[1]) + "-" + kelime[2];
-
-                        ydb.open();
-                        ydb.add(date, yemek.bir, yemek.iki, yemek.uc, yemek.dort, type);
-                        ydb.close();
-
-                        Log.i("tag", date + "\n-" + yemek.bir + "\n-" + yemek.iki + "\n-" + yemek.uc + "\n-" + yemek.dort + "\n--------------");
-                    }
-                }
-            }
-        }
-
-
-        /*
-        JSONObject json = jParser.getJSONFromUrl(links.serviceLinkAksam);
-        String type = "aksam";
-
-
-        if (json != null) {
-            try {
-                mYemeksaksam = json.getJSONArray(TAG_YEMEKLER);
-
-                if (!mYemeksaksam.isNull(0)) {
-                    for (int i = 0; i < mYemeksaksam.length(); i++) {
-                        JSONObject c = mYemeksaksam.getJSONObject(i);
-
-                        // gets the content of each tag
-                        String gun = c.getString(TAG_GUN);
-                        String bir = c.getString(TAG_BIR);
-                        String iki = c.getString(TAG_IKI);
-                        String uc = c.getString(TAG_UC);
-                        String dort = c.getString(TAG_DORT);
-
-                        String[] kelime = null;
-                        kelime = gun.split(" ");
-
-                        String date = kelime[0] + "-" + hangiay(kelime[1]) + "-" + kelime[2];
-
-
-                        ydb.open();
-                        ydb.add(date, bir, iki, uc, dort, type);
-                        ydb.close();
-
-                        Log.i("tag", gun + "\n-" + bir + "\n-" + iki + "\n-" + uc + "\n-" + dort + "\n--------------");
-                    }
-                } else {
-                    //Toast.makeText(MainActivity.this, "Akşam Yemeği Listesi Güncellenirken Hata Oluştu !", Toast.LENGTH_SHORT).show();
-                    return false;
-                }
-
-            } catch (JSONException e) {
-                e.printStackTrace();
-            }
-
-        } else {
-            //Toast.makeText(MainActivity.this, "Akşam Yemeği Listesi Güncellenirken Hata Oluştu !", Toast.LENGTH_SHORT).show();
-            return false;
-        }
-
-
-        Log.i("tag", "updating oglen yemekleri...");
-        json = jParser.getJSONFromUrl(links.serviceLinkOglen);
-        type = "ogle";
-        if (json != null) {
-            try {
-                mYemeksogle = json.getJSONArray(TAG_YEMEKLER);
-                if (!mYemeksogle.isNull(0)) {
-                    //Log.i("ogle", String.valueOf(mYemeksogle.isNull(0)));
-                    for (int i = 0; i < mYemeksogle.length(); i++) {
-                        JSONObject c = mYemeksogle.getJSONObject(i);
-
-                        // gets the content of each tag
-                        String gun = c.getString(TAG_GUN);
-                        String bir = c.getString(TAG_BIR);
-                        String iki = c.getString(TAG_IKI);
-                        String uc = c.getString(TAG_UC);
-                        String dort = c.getString(TAG_DORT);
-
-                        String[] kelime = null;
-                        kelime = gun.split(" ");
-
-                        String date = kelime[0] + "-" + hangiay(kelime[1]) + "-" + kelime[2];
-                        Log.i("tag", gun + "\n-" + bir + "\n-" + iki + "\n-" + uc + "\n-" + dort + "\n--------------");
-                        ydb.open();
-                        ydb.add(date, bir, iki, uc, dort, type);
-                        ydb.close();
+                    ydb.open();
+                    if (yemekListesiOglen != null && yemekListesiOglen.yemekler != null && !yemekListesiOglen.yemekler.isEmpty()) {
+                        ydb.add(yemekListesiOglen, "oglen");
+                    } else {
+                        continue;
                     }
 
-                } else {
-                    //Toast.makeText(MainActivity.this, "Ogle Yemeği Listesi Güncellenirken Hata Oluştu !", Toast.LENGTH_SHORT).show();
-                    return false;
+                    if (yemekListesiAksam != null && yemekListesiAksam.yemekler != null && !yemekListesiAksam.yemekler.isEmpty()) {
+                        ydb.add(yemekListesiAksam, "aksam");
+                    } else {
+                        continue;
+                    }
+
+                } catch (Exception exp) {
+                    //hata varsa bir sonraki linklere geç
+                    continue;
                 }
-            } catch (JSONException e) {
-                e.printStackTrace();
+
+                //oglen ve aksam listesi güncellendi sorun yok.
+                return true;
             }
         } else {
-            //Toast.makeText(MainActivity.this, "Ogle Yemeği Listesi Güncellenirken Hata Oluştu !", Toast.LENGTH_SHORT).show();
-            return false;
+            //ayar dosyasını okuyamadı ise sabit linkler üzerine okuma yap
+            YYYemekListesi yemekListesiOglen = jParser.getYemekler(links.serviceLinkOglen);
+            YYYemekListesi yemekListesiAksam = jParser.getYemekler(links.serviceLinkAksam);
+
+            if (yemekListesiOglen != null && yemekListesiOglen.yemekler != null && !yemekListesiOglen.yemekler.isEmpty()) {
+                ydb.add(yemekListesiOglen, "oglen");
+            }
+
+            if (yemekListesiAksam != null && yemekListesiAksam.yemekler != null && !yemekListesiAksam.yemekler.isEmpty()) {
+                ydb.add(yemekListesiAksam, "aksam");
+            }
+
+            return true;
         }
-        */
 
         return true;
     }
@@ -382,36 +307,6 @@ public class MainActivity extends Activity implements OnClickListener {
         }
     }
 
-    public int hangiay(String ay) {
-
-        if (ay.equals("Ocak"))
-            return 1;
-        else if (ay.equals("Subat"))
-            return 2;
-        else if (ay.equals("Mart"))
-            return 3;
-        else if (ay.equals("Nisan"))
-            return 4;
-        else if (ay.equals("Mayis"))
-            return 5;
-        else if (ay.equals("Haziran"))
-            return 6;
-        else if (ay.equals("Temmuz"))
-            return 7;
-        else if (ay.equals("Agustos"))
-            return 8;
-        else if (ay.equals("Eylül"))
-            return 9;
-        else if (ay.equals("Ekim"))
-            return 10;
-        else if (ay.equals("Kasim"))
-            return 11;
-        else if (ay.equals("Aralik"))
-            return 12;
-        else
-            return 13;
-
-    }
 
     public boolean isWeekend() {
         Calendar ci = Calendar.getInstance();
