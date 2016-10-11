@@ -49,7 +49,6 @@ public class YemekDB {
 
     public void add(YYYemekListesi yemekListesi, String type) {
 
-        open();
         for (YYYemek yemek : yemekListesi.yemekler) {
             String[] kelime = null;
             kelime = yemek.gun.split(" ");
@@ -59,7 +58,6 @@ public class YemekDB {
 
             Log.i("tag", date + "\n-" + yemek.bir + "\n-" + yemek.iki + "\n-" + yemek.uc + "\n-" + yemek.dort + "\n--------------");
         }
-        close();
     }
 
 

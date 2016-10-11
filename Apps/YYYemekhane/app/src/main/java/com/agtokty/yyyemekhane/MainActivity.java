@@ -240,6 +240,7 @@ public class MainActivity extends Activity implements OnClickListener {
                     YYYemekListesi yemekListesiAksam = jParser.getYemekler(url.iki);
 
                     ydb.open();
+                    ydb.recreate();
                     if (yemekListesiOglen != null && yemekListesiOglen.yemekler != null && !yemekListesiOglen.yemekler.isEmpty()) {
                         ydb.add(yemekListesiOglen, "oglen");
                     } else {
@@ -251,7 +252,7 @@ public class MainActivity extends Activity implements OnClickListener {
                     } else {
                         continue;
                     }
-
+                    ydb.close();
                 } catch (Exception exp) {
                     //hata varsa bir sonraki linklere geç
                     continue;
