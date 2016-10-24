@@ -34,6 +34,7 @@ import com.agtokty.YemekhaneUtil;
 import com.agtokty.database.YemekDB;
 import com.agtokty.models.YYYemek;
 import com.agtokty.models.YYYemekListesi;
+import com.agtokty.database.MySQLiteOpenHelper;
 
 public class MainActivity extends Activity implements OnClickListener {
 
@@ -138,7 +139,7 @@ public class MainActivity extends Activity implements OnClickListener {
                     ydb.close();
                     c.close();
                     Intent ogle = new Intent(this, YemekListesi.class);
-                    ogle.putExtra("zaman", "ogle");
+                    ogle.putExtra("zaman", MySQLiteOpenHelper.StringOgle);
                     startActivity(ogle);
                 } else {
                     ydb.close();
@@ -156,7 +157,7 @@ public class MainActivity extends Activity implements OnClickListener {
                     ydb2.close();
                     c2.close();
                     Intent ogle = new Intent(this, YemekListesi.class);
-                    ogle.putExtra("zaman", "aksam");
+                    ogle.putExtra("zaman", MySQLiteOpenHelper.StringAksam);
                     startActivity(ogle);
                 } else {
                     ydb2.close();
@@ -242,13 +243,13 @@ public class MainActivity extends Activity implements OnClickListener {
                     ydb.open();
                     ydb.recreate();
                     if (yemekListesiOglen != null && yemekListesiOglen.yemekler != null && !yemekListesiOglen.yemekler.isEmpty()) {
-                        ydb.add(yemekListesiOglen, "oglen");
+                        ydb.add(yemekListesiOglen, MySQLiteOpenHelper.StringOgle);
                     } else {
                         continue;
                     }
 
                     if (yemekListesiAksam != null && yemekListesiAksam.yemekler != null && !yemekListesiAksam.yemekler.isEmpty()) {
-                        ydb.add(yemekListesiAksam, "aksam");
+                        ydb.add(yemekListesiAksam, MySQLiteOpenHelper.StringAksam);
                     } else {
                         continue;
                     }
@@ -267,11 +268,11 @@ public class MainActivity extends Activity implements OnClickListener {
             YYYemekListesi yemekListesiAksam = jParser.getYemekler(links.serviceLinkAksam);
 
             if (yemekListesiOglen != null && yemekListesiOglen.yemekler != null && !yemekListesiOglen.yemekler.isEmpty()) {
-                ydb.add(yemekListesiOglen, "oglen");
+                ydb.add(yemekListesiOglen, MySQLiteOpenHelper.StringOgle);
             }
 
             if (yemekListesiAksam != null && yemekListesiAksam.yemekler != null && !yemekListesiAksam.yemekler.isEmpty()) {
-                ydb.add(yemekListesiAksam, "aksam");
+                ydb.add(yemekListesiAksam, MySQLiteOpenHelper.StringAksam);
             }
 
             return true;

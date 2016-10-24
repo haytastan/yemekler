@@ -16,7 +16,10 @@ public class MySQLiteOpenHelper extends SQLiteOpenHelper {
     public static final String COLUMN_UC = "uc";
     public static final String COLUMN_DORT = "dort";
     public static final String COLUMN_TYPE = "type";
-    
+
+	public  static  final String StringOgle = "ogle";
+	public  static  final String StringAksam = "aksam";
+
     public static final String SQL_CREATE_TABLE="create table "	+ TABLE_NAME + "( " + 
     		COLUMN_DATE + " text not null , "+
 			COLUMN_BIR	+ " text not null , "+ 

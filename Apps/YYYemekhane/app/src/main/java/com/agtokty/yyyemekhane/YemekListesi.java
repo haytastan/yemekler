@@ -5,6 +5,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
 
+import com.agtokty.database.MySQLiteOpenHelper;
 import com.agtokty.database.YemekDB;
 
 import android.app.AlertDialog;
@@ -43,7 +44,7 @@ public class YemekListesi extends ListActivity {
         setContentView(R.layout.yemeklist);
         zaman = getIntent().getExtras().getString("zaman");
         tvlisttitle = (TextView) findViewById(R.id.listtitle);
-        if (zaman.equals("ogle")) {
+        if (zaman.equals(MySQLiteOpenHelper.StringOgle)) {
             tvlisttitle.setText("Aylık Öğle Yemek Listesi");
 
         } else {
