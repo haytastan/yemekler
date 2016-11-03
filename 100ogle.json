@@ -1,156 +1,156 @@
 {
 	"yemekler": [{
-		"gun": "01 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "01 \t\t\t\tKas\u0131m -",
+		"bir": "DOMATES \u00c7ORBASI(175)",
+		"iki": "PATATES MUSAKKA(345)",
+		"uc": "SEBZEL\u0130 BULGUR P\u0130LAVI(275)",
+		"dort": "HALKA TATLI(265)"
 	},
 	{
-		"gun": "02 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "02 \t\t\t\tKas\u0131m -",
+		"bir": "TEL \u015eEHR\u0130YE \u00c7ORBASI(245)",
+		"iki": "FIRINDA SEBZEL\u0130 TAVUK(320)",
+		"uc": "BEZELYEL\u0130 P\u0130R\u0130N\u00c7 P\u0130LAVI(163)",
+		"dort": "MEYVE(65)"
 	},
 	{
-		"gun": "03 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "03 \t\t\t\tKas\u0131m -",
+		"bir": "EZOGEL\u0130N \u00c7ORBASI(217)",
+		"iki": "PARMAK KEBAP(481)",
+		"uc": "MEYHANE P\u0130LAVI(328)",
+		"dort": "YO\u011eURT(144)"
 	},
 	{
-		"gun": "04 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "04 \t\t\t\tKas\u0131m -",
+		"bir": "YAYLA \u00c7ORBASI(134)",
+		"iki": "FIRIN K\u00d6FTE(370)",
+		"uc": "SOSLU MAKARNA(253)",
+		"dort": "CACIK(141)"
 	},
 	{
-		"gun": "07 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "07 \t\t\t\tKas\u0131m -",
+		"bir": "TEL \u015eEHR\u0130YE \u00c7ORBASI(245)",
+		"iki": "TAVUK D\u00d6NER (300)",
+		"uc": "ER\u0130\u015eTEL\u0130 P\u0130R\u0130N\u00c7 P\u0130LAVI(216)",
+		"dort": "AYRAN(74)"
 	},
 	{
-		"gun": "08 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "08 \t\t\t\tKas\u0131m -",
+		"bir": "MERC\u0130MEK \u00c7ORBASI(386)",
+		"iki": "SEBZEL\u0130 KEBAP(266)",
+		"uc": "SOSLU MAKARNA(253)",
+		"dort": "CACIK(141)"
 	},
 	{
-		"gun": "09 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "09 \t\t\t\tKas\u0131m -",
+		"bir": "DOMATES \u00c7ORBASI(175)",
+		"iki": "ETL\u0130 KURU FAS\u00dcLYE(336)",
+		"uc": "MEYHANE P\u0130LAVI(275)",
+		"dort": "KARI\u015eIK SEBZE TUR\u015eUSU(70)"
 	},
 	{
-		"gun": "10 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "10 \t\t\t\tKas\u0131m -",
+		"bir": "EZOGEL\u0130N \u00c7ORBASI(217)",
+		"iki": "GARN\u0130T\u00dcRL\u00dc DALYAN K\u00d6FTE(498)",
+		"uc": "\u015eEHR\u0130YEL\u0130 P\u0130R\u0130N\u00c7 P\u0130LAVI(216)",
+		"dort": "MEVS\u0130M MEYVE(65)"
 	},
 	{
-		"gun": "11 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "11 \t\t\t\tKas\u0131m -",
+		"bir": "SEBZE \u00c7ORBASI(134)",
+		"iki": "KIYMALI ISPANAK(105)",
+		"uc": "SOSLU MAKARNA(275)",
+		"dort": "YO\u011eURT(144)"
 	},
 	{
-		"gun": "14 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "14 \t\t\t\tKas\u0131m -",
+		"bir": "TEL \u015eEHR\u0130YE \u00c7ORBASI(245)",
+		"iki": "TAVUK \u015eN\u0130TZEL\/C\u0130PS(432)",
+		"uc": "P\u0130R\u0130N\u00c7 P\u0130LAVI(163)",
+		"dort": "AYRAN(74)"
 	},
 	{
-		"gun": "15 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "15 \t\t\t\tKas\u0131m -",
+		"bir": "MERC\u0130MEK \u00c7ORBASI(386)",
+		"iki": "KARI\u015eIK SEBZE KIZARTMASI(345)",
+		"uc": "ER\u0130\u015eTEL\u0130 BULGUR P\u0130LAVI (275)",
+		"dort": "YO\u011eURT(144)"
 	},
 	{
-		"gun": "16 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "16 \t\t\t\tKas\u0131m -",
+		"bir": "AYRANA\u015eI \u00c7ORBASI(163)",
+		"iki": "FIRINDA ALABALIK(370)",
+		"uc": "MERC\u0130MEKL\u0130 BULGUR P\u0130LAVI(275)",
+		"dort": "MEVS\u0130M SALATA (165)"
 	},
 	{
-		"gun": "17 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "17 \t\t\t\tKas\u0131m -",
+		"bir": "DOMATES \u00c7ORBASI(175)",
+		"iki": "YUMURTALI ISPANAK(186)",
+		"uc": "PEYN\u0130RL\u0130 RULO B\u00d6REK (230)",
+		"dort": "V\u0130\u015eNE KOMPOSTO(178)"
 	},
 	{
-		"gun": "18 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "18 \t\t\t\tKas\u0131m -",
+		"bir": "S\u00dcZME MERC\u0130MEK \u00c7ORBASI(386)",
+		"iki": "KAVURMA(345)",
+		"uc": "P\u0130R\u0130N\u00c7 P\u0130LAVI(216)",
+		"dort": "CACIK(141)"
 	},
 	{
-		"gun": "21 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "21 \t\t\t\tKas\u0131m -",
+		"bir": "S\u00dcZME MERC\u0130MEK \u00c7ORBASI(386)",
+		"iki": "ETL\u0130 NOHUT(365)",
+		"uc": "BULGUR P\u0130LAVI(275)",
+		"dort": "KARI\u015eIK SEBZE TUR\u015eUSU(70)"
 	},
 	{
-		"gun": "22 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "22 \t\t\t\tKas\u0131m -",
+		"bir": "DOMATES \u00c7ORBASI(175)",
+		"iki": "ETL\u0130 KI\u015e T\u00dcRL\u00dcS\u00dc(240)",
+		"uc": "\u015eEHR\u0130YEL\u0130 P\u0130R\u0130N\u00c7 P\u0130LAVI(163)",
+		"dort": "CACIK(141)"
 	},
 	{
-		"gun": "23 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "23 \t\t\t\tKas\u0131m -",
+		"bir": "TEL \u015eEHR\u0130YE \u00c7ORBASI(245)",
+		"iki": "TAVUK D\u00d6NER(300)",
+		"uc": "P\u0130R\u0130N\u00c7 P\u0130LAVI(163)",
+		"dort": "AYRAN(75)"
 	},
 	{
-		"gun": "24 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "24 \t\t\t\tKas\u0131m -",
+		"bir": "EZOGEL\u0130N \u00c7ORBASI(217)",
+		"iki": "M\u0130SKET K\u00d6FTE(246)",
+		"uc": "SOSLU MAKARNA(253)",
+		"dort": "MEVS\u0130M MEYVE(75)"
 	},
 	{
-		"gun": "25 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "25 \t\t\t\tKas\u0131m -",
+		"bir": "K\u00d6Y \u00c7ORBASI(175)",
+		"iki": "PATLICAN KEBABI(325)",
+		"uc": "SPAGETT\u0130(293)",
+		"dort": "YO\u011eURT(144)"
 	},
 	{
-		"gun": "28 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "28 \t\t\t\tKas\u0131m -",
+		"bir": "MERC\u0130MEK \u00c7ORBASI(386)",
+		"iki": "ETL\u0130 TAZE FAS\u00dcLYE(109)",
+		"uc": "MEYHANE P\u0130LAVI(200)",
+		"dort": "TULUMBA TATLISI(127)"
 	},
 	{
-		"gun": "29 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "29 \t\t\t\tKas\u0131m -",
+		"bir": "DOMATES \u00c7ORBASI(175)",
+		"iki": "KIYMALI YUMURTA(146)",
+		"uc": "SOSLU MAKARNA(206)",
+		"dort": "MEVS\u0130M MEYVE(75)"
 	},
 	{
-		"gun": "30 Kasim 2016",
-		"bir": "",
-		"iki": "",
-		"uc": "",
-		"dort": ""
+		"gun": "30 \t\t\t\tKas\u0131m -",
+		"bir": "TEL \u015eEHR\u0130YE \u00c7ORBASI(103)",
+		"iki": "SEBZEL\u0130 TAVUK HA\u015eLAMA(148)",
+		"uc": "MISIRLI P\u0130R\u0130N\u00c7 P\u0130LAVI(330)",
+		"dort": "AYRAN(74)"
 	}]
 }
